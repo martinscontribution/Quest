@@ -1,2 +1,2 @@
 I am a PhD Research Student in Data Science with a strong interest in model behaviour in real‑world environments and the discovery of hidden insights through advanced analytics. I bring 7 years of hands‑on experience working with NHS data across Data Warehousing (DWH) and Business Intelligence (BI) environments, giving me a deep understanding of data pipelines, quality, and operational constraints. My background blends academic depth with practical industry expertise, particularly in transforming complex healthcare datasets into meaningful, actionable insights.
-More about me is listed on: in/martin-thawe-07a79029
+
